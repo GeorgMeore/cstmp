@@ -298,6 +298,7 @@ void parse(Rule *r)
 	freeparser(p);
 }
 
+/* TODO: implement left recursion elimination */
 
 int main(void)
 {
